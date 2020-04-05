@@ -86,26 +86,5 @@ a{
 }
 
 
-/* media queries */
-/* screen sizes 500px and up */
-@media(max-width: 320px){
-    body{
-        margin: 0px 5px 0px
-    }
-    #container{
-        width: 25vh;
-    }
-    input{
-        width: 15vh;
-    }
-}
 
-@media(max-width: 500px){
-    body{
-        margin: 0px 50px 0px;
-    }
-    span{
-        display:inline-block;
-    }
-}
 
